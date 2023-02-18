@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneToManyAK", "OneToManyAK\OneToManyAK.csproj", "{8F150952-05E2-49BE-AEBB-8A5F89EC037B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F150952-05E2-49BE-AEBB-8A5F89EC037B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F150952-05E2-49BE-AEBB-8A5F89EC037B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F150952-05E2-49BE-AEBB-8A5F89EC037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F150952-05E2-49BE-AEBB-8A5F89EC037B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329D3D69-26BB-47EF-A57B-DC6BE1DD5027}
+	EndGlobalSection
+EndGlobal
